@@ -1,0 +1,23 @@
+{
+  "name": "snowseekers",
+  "version": "1.0.0",
+  "description": "@authors:\r   - Bilal Dhillon\r   - Siem Debesay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yycHacks23/SnowSeekers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yycHacks23/SnowSeekers/issues"
+  },
+  "homepage": "https://github.com/yycHacks23/SnowSeekers#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^19.6.0"
+  }
+}
